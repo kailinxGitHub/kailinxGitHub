@@ -6,4 +6,4 @@ I'm enrolling as a Computer Science and Mathematics combined major student at th
 I'm eager to embark on an exciting academic journey. 💻
 but am definitely not scared of what's coming. 🚀
 
-I'm passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
+I'm very passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
