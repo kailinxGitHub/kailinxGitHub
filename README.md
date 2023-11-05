@@ -1,5 +1,5 @@
 ### Welcome To My Profile! 👋
-I'm a rising Freshman at _Northeastern University_!
+I'm a Freshman at _Northeastern University_!
 
 I'm enrolled as a Computer Science and Mathematics combined major student at the Khoury College of Computer Sciences and College of Science.
 
