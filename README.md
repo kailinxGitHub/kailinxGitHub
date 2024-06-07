@@ -1,7 +1,7 @@
 ### Welcome To My Profile! 👋
-I'm a Freshman at _Northeastern University_!
+I'm a Rising Sophomore at _Northeastern University_!
 
-I'm enrolled as a Computer Science and Mathematics combined major student at the Khoury College of Computer Sciences and College of Science.
+I'm a Computer Engineering and Computer Science combined major with Mathematics Minor at the Northeastern University College of Engineering and Khoury College of Computer Sciences.
 
 I'm eager to embark on an exciting academic journey. 💻
 but am definitely not scared of what's coming. 🚀
