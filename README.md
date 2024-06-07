@@ -8,6 +8,13 @@ but am definitely not scared of what's coming. 🚀
 
 I'm very passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailinxGitHub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailinxGitHub&layout=donut" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kailinxGitHub&show_icons=true&theme=transparent" />
+  </a>
+</div>
 
 [![An image of @kailinxgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kailinxgithub)](https://holopin.io/@kailinxgithub)
