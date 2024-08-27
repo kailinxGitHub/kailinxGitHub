@@ -1,13 +1,14 @@
 ### Welcome To My Profile! 👋
 <em><strong>I'm ... </strong></em>
-Sophomore at _Northeastern University_!
 
-Computer Engineering and Computer Science combined major with Mathematics Minor at the Northeastern University College of Engineering and Khoury College of Computer Sciences.
+- a Sophomore at _Northeastern University_!
 
-eager to embark on an exciting academic journey. 💻
+- a Computer Engineering and Computer Science combined major with Mathematics Minor at the Northeastern University College of Engineering and Khoury College of Computer Sciences.
+
+- eager to embark on an exciting academic journey. 💻
 but am definitely not scared of what's coming. 🚀
 
-I'm very passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
+- very passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
