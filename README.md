@@ -19,10 +19,4 @@ but am definitely not scared of what's coming. 🚀
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/kailinxGitHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kailinxGitHub&repo=kailinxGitHub&theme=radical" />
-  </a>
-</div>
-
 [![An image of @kailinxgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kailinxgithub)](https://holopin.io/@kailinxgithub)
