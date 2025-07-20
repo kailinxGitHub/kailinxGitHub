@@ -11,11 +11,7 @@ but am definitely not scared of what's coming. 🚀
 - very passionate about exploring new things while connecting my interests and passions, from computer hardware and software to blending technology and entrepreneurship.🌟👨‍💼
 
 <div align="center">
-  ## 📊 My GitHub Stats
-
   [![Kailin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kailinxgithub&show_icons=true&theme=default&hide_border=true)](https://github.com/kailinxgithub)
-  
-  ## 🛠️ Top Languages
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailinxgithub&layout=compact&langs_count=6&theme=default&hide_border=true)](https://github.com/kailinxgithub)
 </div>
