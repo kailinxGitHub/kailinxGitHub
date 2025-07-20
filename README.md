@@ -12,6 +12,7 @@ but am definitely not scared of what's coming. 🚀
 
 <div align="center">
   [![Kailin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kailinxgithub&show_icons=true&theme=default&hide_border=true)](https://github.com/kailinxgithub)
+
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailinxgithub&layout=compact&langs_count=6&theme=default&hide_border=true)](https://github.com/kailinxgithub)
 </div>
