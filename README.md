@@ -1,7 +1,7 @@
 ### Welcome To My Profile! 👋
 <em><strong>I'm ... </strong></em>
 
-- a Sophomore at _Northeastern University_!
+- a Junior at _Northeastern University_!
 
 - a Computer Engineering and Computer Science combined major with Mathematics Minor at the Northeastern University College of Engineering and Khoury College of Computer Sciences.
 
