@@ -3,7 +3,7 @@
 
 - a Junior at _Northeastern University_!
 
-- a Computer Engineering and Computer Science combined major with Mathematics Minor at the Northeastern University College of Engineering and Khoury College of Computer Sciences.
+- a Computer Science major with Computer Engineering Minor at the Northeastern University Khoury College of Computer Sciences and College of Engineering.
 
 - eager to embark on an exciting academic journey. 💻
 but am definitely not scared of what's coming. 🚀
